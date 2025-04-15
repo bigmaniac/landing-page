@@ -27,6 +27,11 @@ header {
     border-radius: 8px;
 }
 
+.content-2 {
+    height: 100vh;
+    background-color: white;
+}
+
 ul {
     display: flex;
     list-style: none;
