@@ -42,6 +42,7 @@ header {
 .main {
     margin: 32px 10vw;
     display: flex;
+    justify-content: space-between;
     gap: 32px;
 }
 
